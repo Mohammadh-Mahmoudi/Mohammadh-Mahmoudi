@@ -1,55 +1,50 @@
-
-
 ### **Embedded Systems & IoT Developer**
 
-Passionate about building real-world embedded solutions, working with microcontrollers, and designing IoT devices.  
-
-Currently developing firmware for ADS-B systems using STM32 microcontrollers at **Viratak**.
+Passionate about building real-world embedded solutions, working with microcontrollers, and developing IoT devices.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Computer Engineering student  
+- 🎓 Bachelor's degree in Computer Engineering  
 - 🔧 Focused on Embedded Systems, IoT, and low-level programming  
 - 🚀 Experienced with ESP32, NodeMCU, and Arduino-based IoT projects  
-- 📡 Interested in signal processing, microcontrollers, and communication protocols  
-- 📘 Always learning more about STM32 and advanced firmware development  
+- 📡 Interested in signal processing, microcontrollers, and communication interfaces  
+- 📘 Currently learning STM32 development and advanced firmware design  
 
 ---
 
 ## 🛠 Skills
 
 ### **Embedded Systems**
-- STM32 (ARM Cortex-M)
+- STM32 (ARM Cortex-M family)
 - C / C++
-- STM32CubeMX
-- UART / SPI / I2C communication
+- UART / SPI / I2C / Ethernet
+- Embedded TCP/UDP server implementation
 - Low-level firmware development
 
 ### **IoT Development**
 - ESP32 / NodeMCU
 - Arduino IDE
 - Blynk
-- GPS modules
-- Ethernet, simple server handling
 
 ### **Tools**
 - CLion  
+- STM32CubeMX  
+- STM32CubeIDE  
 - Git & GitHub  
-- Linux development environment  
 
 ---
 
 ## ✈️ Current Project: ADS-B Receiver System  
-Working on firmware development for an ADS-B (Automatic Dependent Surveillance–Broadcast) receiver system using STM32 microcontrollers.  
+Developing firmware for an ADS-B (Automatic Dependent Surveillance–Broadcast) receiver and transmitter system using STM32 microcontrollers.  
 Focused on communication interfaces, embedded processing, and real-time data handling.
 
 ---
 
 ## 📫 Contact
-- **Email:** your-email-here  
-- **LinkedIn:** your-link-here  
+- **Email:** mohammadh_mahmoudi81@gmail.com
+- **LinkedIn:** www.linkedin.com/in/mohammadhossein-mahmoodi-403094242  
 
 ---
 
-Thanks for visiting my profile! 😊  
+Thanks for visiting my profile! 😊
