@@ -36,7 +36,7 @@ Passionate about building real-world embedded solutions, working with microcontr
 ---
 
 ## ✈️ Current Project: ADS-B Receiver System  
-Developing firmware for an ADS-B (Automatic Dependent Surveillance–Broadcast) receiver and transmitter system using STM32 microcontrollers.  
+Developing firmware for an ADS-B (Automatic Dependent Surveillance–Broadcast) receiver and transmitter system using STM32 microcontrollers for VIRATAK company.  
 Focused on communication interfaces, embedded processing, and real-time data handling.
 
 ---
