@@ -4,6 +4,7 @@ Passionate about building real-world embedded solutions, working with microcontr
 
 ---
 
+
 ## 🧑‍💻 About Me
 - 🎓 Bachelor's degree in Computer Engineering  
 - 🔧 Focused on Embedded Systems, IoT, and low-level programming  
@@ -12,6 +13,7 @@ Passionate about building real-world embedded solutions, working with microcontr
 - 📘 Currently learning STM32 development and advanced firmware design  
 
 ---
+
 
 ## ✈️ Current Project: ADS-B Receiver System  
 Developing firmware for an ADS-B (Automatic Dependent Surveillance–Broadcast) receiver and transmitter system using STM32 microcontrollers for Viratak company.  
