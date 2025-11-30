@@ -52,6 +52,4 @@ Focused on communication interfaces, embedded processing, and real-time data han
 
 Thanks for visiting my profile! 😊
 
-<img width="826" height="821" alt="chrome_q2Ra3Z72Wx" src="https://github.com/user-attachments/assets/636a8b59-0018-4e87-af91-ef200f54fd55" />
-
 
