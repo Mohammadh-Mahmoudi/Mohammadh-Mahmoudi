@@ -6,41 +6,16 @@ Passionate about building real-world embedded solutions, working with microcontr
 
 
 ## 🧑‍💻 About Me
-- 🎓 Bachelor's degree in Computer Engineering  
-- 🔧 Focused on Embedded Systems, IoT, and low-level programming  
-- 🚀 Experienced with ESP32, NodeMCU, and Arduino-based IoT projects  
-- 📡 Interested in signal processing, microcontrollers, and communication interfaces  
-- 📘 Currently learning STM32 development and advanced firmware design  
+-  Bachelor's degree in Computer Engineering  
+-  Focused on Embedded Systems, IoT, and low-level programming  
+-  Experienced with ESP32, NodeMCU, and Arduino-based IoT projects  
+-  Interested in signal processing, microcontrollers
 
----
+## 📌 Currently I'm working on:
+- Learning STM32 Development
+- FPGA Development & Digital Systems
+- Working on a project about ADS-B Transceiver System for **Viratak Company**  
 
-
-## ✈️ Current Project: ADS-B Transceiver System  
-Developing firmware for an ADS-B (Automatic Dependent Surveillance–Broadcast) receiver and transmitter system using STM32 microcontrollers for Viratak company.  
-Focused on communication interfaces, embedded processing, and real-time data handling.
-
----
-
-
-## 🛠 Skills
-
-### **Embedded Systems**
-- STM32 (ARM Cortex-M family)
-- C / C++
-- UART / SPI / I2C / Ethernet
-- Embedded TCP/UDP server implementation
-- Low-level firmware development
-
-### **IoT Development**
-- ESP32 / NodeMCU
-- Arduino IDE
-- Blynk
-
-### **Tools**
-- CLion  
-- STM32CubeMX  
-- STM32CubeIDE  
-- Git & GitHub  
 
 ---
 
@@ -50,6 +25,6 @@ Focused on communication interfaces, embedded processing, and real-time data han
 
 ---
 
-Thanks for visiting my profile! 😊
+
 
 
