@@ -8,11 +8,11 @@ Passionate about building real-world embedded solutions, working with microcontr
 ## 🧑‍💻 About Me
 -  Bachelor's degree in Computer Engineering  
 -  Focused on Embedded Systems, IoT, and low-level programming  
--  Experienced with ESP32, NodeMCU, and Arduino-based IoT projects  
+-  Experienced with STM32, ESP32, NodeMCU, and Arduino-based IoT projects  
 -  Interested in signal processing, microcontrollers
 
 ## 📌 Currently I'm working on:
-- Learning STM32 Development
+
 - FPGA Development & Digital Systems
 - Working on a project about ADS-B Transceiver System for **Viratak Company**  
 
