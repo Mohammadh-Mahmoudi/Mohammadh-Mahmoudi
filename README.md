@@ -14,7 +14,7 @@ Passionate about building real-world embedded solutions, working with microcontr
 ## 📌 Currently I'm working on:
 
 - FPGA Development & Digital Systems
-- Working on a project about ADS-B Transceiver System for **Viratak Company**  
+- Working on a project in signal processing and communications for **Viratak Company**  
 
 
 ---
